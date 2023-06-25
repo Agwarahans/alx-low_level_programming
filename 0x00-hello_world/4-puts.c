@@ -3,10 +3,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: Prints the text "Programming is like building a multilingual puzzle"
- *              using the puts function and returns 0.
- *
- * Return: 0 (Exit success)
+ * Return: 0 upon successful execution
  */
 int main(void)
 {
