@@ -20,3 +20,5 @@ int prime(int n, int i)
 /**
   *check__prime - check for prime number
   *@n: number to check
+  */
+}
